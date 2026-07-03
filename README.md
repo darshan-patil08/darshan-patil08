@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Darshan Patil</h1>
-<h3 align="center">A passionate frontend developer</h3>
-💫 About Me:<br>
-🔭 I’m currently working on **My College Major Projects**<br>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/64560875-7368-4b58-be70-0e7d86e6e578" />
+About Me:<br>
+🔭 I’m currently working on **Freelance Project**<br>
 🌱 I’m currently learning **DSA,ReactJS,TypeScript**<br>
 
 
